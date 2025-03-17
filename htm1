@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>پروتوتایپ ابرهوش کوانتومی</title>
+  <!-- اینجا می‌توانید کدهای آنالیتیکس (مانند Google Analytics) را اضافه کنید -->
+  <!-- مثال:
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-XXXXXXXXX-X');
+  </script>
+  -->
+  <style>
+    body {
+      font-family: "Tahoma", sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+      text-align: center;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      margin-top: 50px;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #555;
+      line-height: 1.6;
+    }
+    a.button {
+      display: inline-block;
+      background-color: #007bff;
+      color: #fff;
+      padding: 12px 24px;
+      margin-top: 20px;
+      border-radius: 4px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a.button:hover {
+      background-color: #0056b3;
+    }
+    /* استایل فرم */
+    form {
+      margin-top: 20px;
+    }
+    input[type="email"] {
+      padding: 10px;
+      width: 80%;
+      border-radius: 4px;
+      border: 1px solid #ddd;
+      margin-top: 10px;
+    }
+    button[type="submit"] {
+      padding: 10px 20px;
+      background-color: #28a745;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    button[type="submit"]:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>سلام!</h1>
+    <p>به پروتوتایپ ابرهوش کوانتومی خوش آمدید.<br>
+       این سیستم برای حل مسائل بنیادین در حوزه‌های ریاضی، فیزیک، برق، عمران، و سایر علوم طراحی شده است.<br>
+       از طریق این صفحه می‌توانید به کانال تلگرام ما بپیوندید و در جریان جدیدترین به‌روزرسانی‌ها و تحلیل‌های علمی وپژوهشی وفناور قرار گیرید.</p>
+    
+    <!-- دکمه عضویت در تلگرام -->
+    <a href="https://t.me/QuantumEconomyIR" target="_blank" class="button">عضویت در تلگرام</a>
+    
+    <!-- فرم ثبت‌نام ایمیل -->
+    <form action="your-form-processing-script" method="POST">
+      <label for="email">آدرس ایمیل خود را وارد کنید:</label><br>
+      <input type="email" id="email" name="email" placeholder="ایمیل خود را وارد کنید" required><br>
+      <button type="submit">ثبت نام</button>
+    </form>
+  </div>
+
+  <script>
+    // کد زیر فقط برای آزمایش و ثبت رویداد صفحه است.
+    console.log("صفحه آزمایشی ابرهوش کوانتومی بارگذاری شد.");
+    // اینجا می‌توانید کدهای دلخواه برای جمع‌آوری آمار (مثلاً event tracking) اضافه کنید.
+  </script>
+</body>
+</html>
